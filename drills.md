@@ -1,6 +1,6 @@
 # CP Drills Checklist (Newest entries first)
 - [ ] Didn't properly account for all the edgecases
-- [ ] Made my problem size linear, but took long to think about iterating through possible values
+- [ ] Made my problem size linear, but took long to think about iterating through possible values — **think how what you proved simplifies**. 
 - [ ] Forgot MOD while doing DP
 - [ ] Arithmetic mistake
 - [X] Bug due to messy impl (1st try)
